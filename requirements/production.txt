@@ -1,0 +1,14 @@
+Django==3.0.7
+
+# for images
+Pillow
+
+# Python-postgresql db adapter
+psycopg2-binary
+
+# managing environ and setting base, project dir
+django-environ
+
+# djanog-mathfilters
+django-mathfilters
+
